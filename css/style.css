@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700');
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.full-height {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#hero {
+    background: url('../img/bg-light.jpeg') center center no-repeat;
+    background-size: cover;
+}
